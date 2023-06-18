@@ -1,0 +1,102 @@
+#This is a mock data for testing purposes only!
+carMake,carModel,carModelYear,price
+Buick,Park Avenue,2002,$71475.96
+Lexus,ES,2000,$16324.03
+Acura,RL,2001,$21935.65
+Buick,LeSabre,1988,$34126.11
+Jaguar,S-Type,2000,$50438.66
+Honda,Odyssey,1999,$74458.82
+Audi,A6,2012,$84143.44
+Buick,Regal,2003,$41765.45
+Chevrolet,Express 1500,1997,$62388.42
+Acura,TL,1996,$76416.69
+Acura,Vigor,1993,$48903.69
+Chevrolet,G-Series G20,1992,$98097.66
+Toyota,Solara,2008,$57303.07
+Mercedes-Benz,G-Class,2008,$79315.41
+Ford,Thunderbird,1987,$90034.08
+Oldsmobile,98,1992,$85282.32
+Nissan,Leaf,2012,$73732.07
+Mercedes-Benz,SL-Class,2003,$25833.59
+Hyundai,Accent,2002,$94656.61
+Scion,xA,2006,$69059.99
+GMC,3500 Club Coupe,1993,$89946.59
+Ford,Freestyle,2005,$19773.20
+Honda,Civic,2007,$54928.73
+GMC,Sonoma Club Coupe,1997,$27528.76
+Mercury,Topaz,1992,$88843.43
+Mazda,MX-6,1990,$30293.52
+Pontiac,GTO,1971,$26307.73
+Ford,Excursion,2002,$82630.97
+Volvo,XC60,2009,$23175.89
+Chevrolet,Malibu,2011,$26828.90
+Mitsubishi,Challenger,2002,$42828.46
+Toyota,4Runner,1995,$74887.51
+Dodge,Ram,2003,$57668.98
+Infiniti,QX,2010,$18749.08
+Nissan,Altima,2000,$51690.29
+Ford,Mustang,1998,$14852.56
+Mazda,Mazda5,2010,$11988.22
+Audi,A8,2007,$61591.75
+Chevrolet,Tracker,2000,$77555.14
+Ford,Taurus,1996,$74887.45
+GMC,Safari,1993,$32659.74
+Volkswagen,Touareg,2006,$74564.30
+Acura,TL,2006,$22134.49
+Mitsubishi,Eclipse,2010,$38549.90
+Chevrolet,Camaro,1973,$48960.30
+Nissan,350Z,2005,$26428.86
+Oldsmobile,Cutlass Cruiser,1994,$72825.31
+Honda,Pilot,2002,$69991.74
+Ford,Mustang,2006,$56595.70
+Honda,CR-V,2008,$80300.07
+Toyota,Tercel,1993,$98889.08
+Volkswagen,GLI,2008,$58308.10
+Nissan,Sentra,2004,$11255.75
+GMC,Acadia,2009,$63699.25
+Audi,A4,2008,$90547.49
+Aston Martin,DB9,2006,$56782.61
+Mercury,Topaz,1987,$49858.97
+Infiniti,G,2011,$16203.28
+Volkswagen,Type 2,1991,$77780.47
+Ford,F450,2009,$37493.74
+Mitsubishi,Lancer Evolution,2004,$79542.24
+Chevrolet,Camaro,1980,$69792.57
+Mercury,Villager,1993,$78532.90
+Suzuki,Kizashi,2012,$23948.21
+Cadillac,Eldorado,1992,$18947.04
+Jeep,Cherokee,1997,$90309.97
+Ford,Contour,2000,$62580.04
+Mazda,MPV,1990,$55429.63
+Audi,Q5,2012,$71384.97
+Chrysler,Pacifica,2004,$28467.23
+Ford,Mustang,2002,$22289.65
+Ford,Econoline E250,1995,$46815.08
+Mercedes-Benz,E-Class,1999,$67471.85
+Hummer,H1,2001,$15386.75
+Nissan,Frontier,2010,$62259.29
+Lexus,SC,2009,$52748.14
+Dodge,Ram 2500,2009,$49102.53
+Mercury,Grand Marquis,1994,$72459.13
+Toyota,Corolla,2012,$75937.24
+Ford,F350,1997,$87625.66
+Dodge,Dakota Club,1994,$16527.16
+GMC,Suburban 1500,1996,$72299.05
+Mazda,MX-5,2011,$70059.08
+Chevrolet,Express 2500,2011,$69257.54
+Nissan,Xterra,2003,$14660.88
+Lamborghini,Gallardo,2006,$64228.67
+Pontiac,LeMans,1967,$31130.60
+MINI,Cooper,2011,$67206.02
+Mazda,626,1998,$50934.78
+Mitsubishi,Galant,2008,$50764.40
+Suzuki,Aerio,2006,$48908.83
+Audi,5000S,1988,$51804.56
+BMW,M Roadster,2006,$89948.07
+Land Rover,Range Rover,1996,$13413.33
+Buick,Terraza,2005,$74385.96
+Volvo,C30,2010,$60912.63
+Chevrolet,Camaro,1976,$55957.52
+Suzuki,Aerio,2006,$39612.10
+Pontiac,Firebird,2002,$65296.94
+Infiniti,Q,1995,$34523.81
