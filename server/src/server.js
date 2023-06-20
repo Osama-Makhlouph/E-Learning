@@ -11,8 +11,17 @@ const server = https.createServer({
 }, app);
 const PORT = process.env.PORT || 8000;
 
-async function startServer(){
-    await mongoose.connect(process.env.MONGO_URL);
+async function connectToMongoDB() {
+    try {
+        await mongoose.connect(process.env.MONGO_URL);
+        console.log('Connected to MongoDB!');
+    } catch (err) {
+        console.log(err.message);
+    }
+}
+
+async function startServer() {
+    await connectToMongoDB();
     await loadCarsDataIntoDB();
     server.listen(PORT, () => {
         console.log(`The server started on port:${PORT}`);
